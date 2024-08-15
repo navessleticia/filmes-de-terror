@@ -1,0 +1,33 @@
+.landing-heading, .landing-heading2{
+    color: #fe9800;
+    margin-left: 80px;
+    font-family: "Shojumaru", system-ui;
+}
+.landing-heading2{
+    font-size: 100px;
+    margin-top: -70px;
+}
+.landing-heading{
+    font-size: 40px;
+}
+.landing-heading3{
+    font-size: 100px;
+    color: #fe9800;
+    font-family: "Shojumaru", system-ui;
+    margin-top: -5px;
+    margin-left: 80px;
+}
+.conheca-button{
+    background-color: #fe9800;
+    color: white;
+    padding: 13px 50px;
+    border-radius: 5px;
+    position: relative;
+    top: 40px;
+    left: 200px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.conheca-button:hover{
+    transform: scale(1.5);
+}

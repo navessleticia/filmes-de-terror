@@ -1,0 +1,32 @@
+
+.landing-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start; 
+  height: 100vh;
+  padding: 2em;
+  background-image: url('src/assets/background.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+body{
+  background-image: url('src/assets/estranha.png');
+  background-size: cover;
+  background-position: center;
+}
+.landing-heading {
+  font-size: 66px;
+  margin: 0;
+  font-family: "Shojumaru", system-ui;
+  text-align: left; 
+}
+
+.landing-heading2 {
+  font-size: 66px;
+  margin: 0;
+  font-family: "Shojumaru", system-ui;
+  text-align: left; 
+  margin-top: -20px;
+}

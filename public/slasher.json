@@ -1,0 +1,89 @@
+{
+    "slasher": [
+      {
+        "titulo": "Halloween",
+        "ano": 1978,
+        "diretor": "John Carpenter",
+        "imagemUrl":"https://www.icegif.com/wp-content/uploads/2022/10/icegif-106.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=ek1ePFp-nBI"
+      },
+      {
+        "titulo": "Sexta feira 13",
+        "ano": 2009,
+        "diretor": "Sean S. Cunningham",
+        "imagemUrl":"https://bocadoinferno.com.br/wp-content/uploads/2016/05/Sexta-Feira-13-2009-1.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=EXnSl-0epo4"
+      },
+      {
+        "titulo": "A Hora do Pesadelo",
+        "ano": 1984,
+        "diretor": "Wes Craven",
+        "imagemUrl":"https://images.squarespace-cdn.com/content/v1/5b18735a3917ee20d18a2117/1632419925210-XCRSUVF2OFYPHPM7YNYC/icegif-6147.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=A4TkFCRXlO8&t=13s"
+      },
+      {
+        "titulo": "The Texas Chain Saw Massacre",
+        "ano": 1974,
+        "diretor": "Tobe Hooper",
+        "imagemUrl":"https://extra-images.akamaized.net/image/e4/o/2015/11/08/e4cce931f9705b9bb444b4f900e26d4b_md.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=jEm75y-R5wY"
+      },
+      {
+        "titulo": "Pânico",
+        "ano": 1996,
+        "diretor": "Wes Craven",
+        "imagemUrl":"https://sala313.wordpress.com/wp-content/uploads/2015/01/tumblr_mstr8crvco1rxam8fo1_500.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=swzTZ2mQypM&t=9s"
+      },
+      {
+        "titulo": "Rua do Medo",
+        "ano": 2021,
+        "diretor": "Leigh Janiak",
+        "imagemUrl":"https://c.tenor.com/UhbuoP1LY6IAAAAC/fear-street-netflix.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=3jiRtYuunZw&t=23s"
+      },
+      {
+        "titulo": "X - A Marca da Morte",
+        "ano": 1988,
+        "diretor": " Ti West",
+        "imagemUrl":"https://omelete-web-stories-prod.s3.amazonaws.com/terrores-da-a24-disponiveis-no-streaming/assets/7e428faa-1d3a-4e1b-8d24-67610a2838ec",
+        "trailerUrl":"https://www.youtube.com/watch?v=1cOp7UpeXUk"
+      },
+      {
+        "titulo": "Brinquedo Assassino",
+        "ano": 2005,
+        "diretor": "Don Mancini",
+        "imagemUrl":"https://s2-g1.glbimg.com/4NYzieOpz1bSn0IfXh0fcBLTmsY=/73x0:415x281/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/x/f/2Y9GTQTHe5I1yvTUrmIw/tumblr-ncdo67el9i1rp0vkjo1-500.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=6HqSAtciV3U"
+      },
+      {
+        "titulo": "Uma Noite de Crime",
+        "ano": 2013,
+        "diretor": "Everardo Valerio Gout",
+        "imagemUrl":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhinRsZXtAt77Hqd9SxB2uS-zWDybPoG57JLjmsHUExL4pIOGkp3zDlHEOn0RZvaNCVqzapAqTkgfHw8eWoFJtJQrQ-OXyd3ATClE99po_Z80TF3Zs0wqWf1tbC_1aaT9w_iBt6pIz2d-Y/s640/ahs_cult_s07_e01_election_night_premiere_dandy_souza-03.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=DkhQhmki-gk"
+      },
+      {
+        "titulo": "The Burning",
+        "ano": 1981,
+        "diretor": "Tony Maylam",
+        "imagemUrl":"https://pa1.aminoapps.com/6673/083bc0a425c7b165e62e318871bf921955efda39_hq.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=KTvr0SJQ_WM"
+      },
+      {
+        "titulo": "Lenda Urbana",
+        "ano": 1998 ,
+        "diretor": "Jamie Blanks",
+        "imagemUrl":"https://24.media.tumblr.com/bb2a9552523079067650181e254c4dcb/tumblr_n6maqfTSLG1rp0vkjo1_500.gif",
+        "trailerUrl":"https://www.youtube.com/watch?v=QxByi51GyZs"
+      },
+      {
+        "titulo": "Eu Sei O Que Vocês Fizeram no Verão Passado",
+        "ano": 1997,
+        "diretor": "Jim Gillespie",
+        "imagemUrl":"https://64.media.tumblr.com/76d1955046b66dd7b508e20481b77ff5/d03a34426396c414-eb/s540x810/c1669f8a305e26f6be95d4bde406ac3bd5f6ef7f.gifv",
+        "trailerUrl":"https://www.youtube.com/watch?v=RaarQMP_1Yg"
+      }
+    ]
+  }
+  

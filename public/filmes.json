@@ -1,0 +1,428 @@
+{
+    "filmes":[
+        {
+            "titulo": "Cujo",    
+            "ano": 1983,
+            "diretor": "Lewis Teague",
+            "imagemUrl":"https://45.media.tumblr.com/925583958aae8ac32884788ae2654c28/tumblr_nyezxkNx1x1t9fzfqo1_400.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=v0k21yeVMbM"
+        },
+        {
+            "titulo": "Annabelle 2: A Criação do Mal",    
+            "ano": 2017,
+            "diretor": "David F. Sandberg",
+            "imagemUrl": "https://panitopan.wordpress.com/wp-content/uploads/2017/08/8991031.gif?w=740",
+            "trailerUrl":"https://www.youtube.com/watch?v=EWjq_8ijmvo"
+        },
+        {
+            "titulo": "O Iluminado",
+            "ano": 1980,
+            "diretor": "Stanley Kubrick",
+            "imagemUrl":"https://i.pinimg.com/originals/3a/7d/14/3a7d1482efae857b52f45887b6d16b9d.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=dSQ3yN5yJ0g"
+        },
+        {
+            "titulo": "A Bruxa de Blair",
+            "ano": 1999,
+            "diretor": "Daniel Myrick, Eduardo Sánchez",
+            "imagemUrl":"https://67.media.tumblr.com/288dbf816855f3fbbc91783318ade7aa/tumblr_oarzd9YgKL1vyvg1co6_400.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+A+Bruxa+de+Blair"
+        },
+        {
+            "titulo": "Terror em Silent Hill",
+            "ano": 2006,
+            "diretor": "Christophe Gans",
+            "imagemUrl":"https://pa1.aminoapps.com/6631/fc362e32adf1195de16811eb1f19690578dd3eea_hq.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=Hi9-XLy9jmA"
+        },
+        {
+            "titulo": "O Chamado",
+            "ano": 2002,
+            "diretor": "Gore Verbinski",
+            "imagemUrl":"https://tm.ibxk.com.br/2021/11/10/10203844461570.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=FlDw5UDsdWA"
+        },
+        {
+            "titulo": "Quarto 1408",
+            "ano": 2007,
+            "diretor": "Mikael Håfström",
+            "imagemUrl":"https://64.media.tumblr.com/e13ab65fd5f527bb4e9f23c89d1fd227/f664cd359dff502d-2d/s500x750/568f66a895d454ef467caad4ce64b87f3616b0ac.gifv",
+            "trailerUrl":"https://www.youtube.com/watch?v=WMkyXCh9Oik&t=18s"
+        },
+        {
+            "titulo": "Halloween",
+            "ano": 1978,
+            "diretor": "John Carpenter",
+            "imagemUrl":"https://i.pinimg.com/originals/36/c7/80/36c780bad4f671b11e218eb6cda419d8.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=ek1ePFp-nBI"
+        },
+        {
+            "titulo": "A Classic Horror Story",
+            "ano": 2021,
+            "diretor": "Roberto De Feo",
+            "imagemUrl":"https://media.tenor.com/3diUuteq_gsAAAAM/turn-around-a-classic-horror-story.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=PHqyFhrb3uU"
+        },
+        {
+            "titulo": "O Tarô da Morte",
+            "ano": 2024,
+            "diretor": "Anna Halberg",
+            "imagemUrl":"https://blog.quizur.com/wp-content/uploads/2024/05/giphy-3-1.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=tQwCcqBexhQ"
+        },
+        {
+            "titulo": "Creep",
+            "ano": 2017,
+            "diretor": "Patrick Brice",
+            "imagemUrl":"https://bloodonwax.wordpress.com/wp-content/uploads/2015/07/tumblr_nrzfkgjct01txq6qwo1_400.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=a1FmJHhWm8A"
+        },
+        {
+            "titulo": "A Vila",
+            "ano": 2004,
+            "diretor": "M. Night Shyamalan",
+            "imagemUrl":"https://personaunesp.com.br/wp-content/uploads/2018/10/Figura-5.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=MnvM9qlZXsg"
+        },
+        {
+            "titulo": "O sexto sentido",
+            "ano": 1999,
+            "diretor": " M. Night Shyamalan",
+            "imagemUrl":"https://img.buzzfeed.com/buzzfeed-static/static/2017-10/20/19/asset/buzzfeed-prod-fastlane-03/anigif_sub-buzz-804-1508541507-18.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=1IMxfQQaFKY"
+        },
+        {
+            "titulo": "Terrifier",
+            "ano": 2016,
+            "diretor": "Damien Leone",
+            "imagemUrl":"https://i.pinimg.com/originals/eb/ab/65/ebab65c5cecc362803578a077b66703b.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=fN5j1MtGO2Q"
+            
+        },
+        {
+            "titulo": "Midsommar - O Mal Não Espera a Noite",
+            "ano": 2019,
+            "diretor": "Ari Aster",
+            "imagemUrl":"https://i.pinimg.com/originals/35/df/92/35df92089e0bc8962a4b4c431e2dea92.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=1Vnghdsjmd0"
+        },
+        {
+            "titulo": "Olhos Famintos",
+            "ano": 2019,
+            "diretor": "Timo Vuorensola, Victor Salvar",
+            "imagemUrl":"https://pa1.aminoapps.com/7033/080d877257b58af615f0123d8a1dd10bcd3c0c75r1-500-250_00.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=ayax_ErKAbs"
+        },
+        {
+            "titulo": "A Órfã",
+            "ano": 2009,
+            "diretor": "Jaume Collet-Serra",
+            "imagemUrl":"https://pa1.aminoapps.com/6554/7d3b3cbdf0b2c580e81566d02bdc665af9314cd9_hq.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=cB5zcyckRzc"
+        },
+        {
+            "titulo": "The Poughkeepsie Tapes",
+            "ano": 2007,
+            "diretor": "John Erick Dowdle",
+            "imagemUrl":"https://i.makeagif.com/media/1-25-2016/ElDW__.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=jGA2cIovENM"
+        },
+        {
+            "titulo": "Fenômenos Paranormais",
+            "ano": 2011,
+            "diretor": "Colin Minihan",
+            "imagemUrl":"https://super.abril.com.br/wp-content/uploads/2018/07/ff_graveencounters.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=Jk898MgqNEY"
+        },
+        {
+            "titulo": "O orfanato",
+            "ano": 2008,
+            "diretor": "Juan Antonio Bayona",
+            "imagemUrl":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMPe-K-vnf6GTxUb_AdHCY_8SPSSFj7WBUfxJVIlJhTClALB6_0RIudUs9tC8GiI5GEHL9LnobMBIYWCGz_-Q4_Sehfvx8EWwY37zcK-mQ7ZotSLG-FWkTygNIPh6rfZbptw9jpRQpkNPw/s640/tumblr_n7wr7hoxKA1twuaxqo1_400.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=GmG5lePP16s"
+        },
+        {
+            "titulo": "Carrie, a Estranha",
+            "ano": 1976,
+            "diretor": " Brian De Palma",
+            "imagemUrl":"https://i.pinimg.com/originals/aa/38/88/aa388837d4ddcd67b8763e39daf55395.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Carrie%2C+a+Estranha"
+        },
+        {
+            "titulo": "Premonição",
+            "ano": 2000,
+            "diretor": " Adam B. Stein",
+            "imagemUrl":"https://pa1.aminoapps.com/7094/cadac8b7a9e716c33b2c75d57c8d08bf41da148ar1-299-168_00.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Premoni%C3%A7%C3%A3o"
+        },
+        {
+            "titulo": "Assim na Terra Como no Inferno",
+            "ano": 2014,
+            "diretor": "John Erick Dowdle",
+            "imagemUrl":"https://pa1.aminoapps.com/6730/51ab76e660885d67ef240ad28fd31dbc71cfa307_hq.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Assim+na+Terra+Como+no+Inferno"
+        },
+        {
+            "titulo": "Quarentena",
+            "ano": 2008,
+            "diretor": "John Erick Dowdle",
+            "imagemUrl":"https://64.media.tumblr.com/tumblr_mafauwfZ231rardazo1_500.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=iYCwlnZ0HVI"
+        },
+        {
+            "titulo": "Campo do Medo",
+            "ano": 2019,
+            "diretor": "Vincenzo Natali",
+            "imagemUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2X8bRHiw9RBGwyJRaZijM4JEkm73IDhb4YChDJnrRVt9kTFGX8SFq8NLfz8bYPU207Ww&usqp=CAU",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Campo+do+Medo"
+        },
+        
+        {
+            "titulo": "O Massacre da Serra Elétrica",
+            "ano": 1974,
+            "diretor": "Tobe Hooper",
+            "imagemUrl":"https://pa1.aminoapps.com/6961/cf5de36d03d66c52764eb1d0d8c74cf96b3fe15cr1-495-278_hq.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+O+Massacre+da+Serra+El%C3%A9trica"
+        },
+        {
+            "titulo": "Os Estranhos",
+            "ano": 2024,
+            "diretor": "Renny Harlin",
+            "imagemUrl":"https://c.tenor.com/NldFGKQyEmkAAAAC/the-strangers-doll-face.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Os+Estranhos"
+        },
+        {
+            "titulo": "Megan",
+            "ano": 2022,
+            "diretor": "Gerard Johnstone",
+            "imagemUrl":"https://img.buzzfeed.com/buzzfeed-static/static/2023-01/6/18/asset/b9b52f8530cc/anigif_sub-buzz-2638-1673030347-1.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Megan"
+        },
+        {
+            "titulo": "Marcas da Maldição",
+            "ano": 2022,
+            "diretor": " Kevin Ko",
+            "imagemUrl":"https://img.buzzfeed.com/buzzfeed-static/static/2022-08/3/20/asset/4ba1ba9292f5/anigif_sub-buzz-2690-1659559297-8.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Marcas+da+Maldi%C3%A7%C3%A3o"
+        },
+        {
+            "titulo": "Hereditário",
+            "ano": 2018,
+            "diretor": "Ari Aster",
+            "imagemUrl":"https://i.pinimg.com/originals/7a/57/5f/7a575fe59fd293f7283e46e40c09925b.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Heredit%C3%A1rio"
+        },
+        {
+            "titulo": "Corra!",
+            "ano": 2017,
+            "diretor": "Jordan Peele",
+            "imagemUrl":"https://aventurasnahistoria.uol.com.br/media/stories/5-coisas-que-voce-nao-prestou-atencao-em-corra/assets/7.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Corra!"
+        },
+        {
+            "titulo": "Rua do Medo",
+            "ano": 2021,
+            "diretor": "Leigh Janiak",
+            "imagemUrl":"https://c.tenor.com/UhbuoP1LY6IAAAAC/fear-street-netflix.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Rua+do+Medo"
+        },
+        {
+            "titulo": "A Freira",
+            "ano": 2018,
+            "diretor": "Corin Hardy",
+            "imagemUrl":"https://capricho.abril.com.br/wp-content/uploads/2018/09/a-freira.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+A+Freira"
+        },
+        {
+            "titulo": "Nope",
+            "ano": 2022,
+            "diretor": "Jordan Peele",
+            "imagemUrl":"https://www.cineset.com.br/wp-content/uploads/2022/08/Nao-Nao-Olhe-Jordan-Peele.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Nope"
+        },
+        {
+            "titulo": "A Noite dos Mortos-Vivos",
+            "ano": 1968,
+            "diretor": "George A. Romero",
+            "imagemUrl":"https://68.media.tumblr.com/275295f29169aa4ccf5dda5cb25f597a/tumblr_ot7rrv7VQk1qaqx8xo2_500.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+A+Noite+dos+Mortos-Vivos"
+        },
+        {
+            "titulo": "Alien, o Oitavo Passageiro",
+            "ano": 1979,
+            "diretor": "Ridley Scott",
+            "imagemUrl":"https://qph.cf2.quoracdn.net/main-qimg-05f889f47a791db1fdae6a85a136a603",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+Alien%2C+o+Oitavo+Passageiro"
+        },
+        {
+            "titulo": "O Predador",
+            "ano": 1987,
+            "diretor": "Shane Black",
+            "imagemUrl":"https://pa1.aminoapps.com/6700/5f9a0d20172643cc3e2750f1a7ef7a9a00b359e8_hq.gif",
+            "trailerUrl":"https://www.youtube.com/results?search_query=trailer+O+Predador"
+        },
+        {
+            "titulo": "Aracnofobia",
+            "ano": 1990,
+            "diretor": "Frank Marshall",
+            "imagemUrl":"https://mega.ibxk.com.br/2014/1/materias/51959091824165644.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Labirinto do Fauno",
+            "ano": 2007,
+            "diretor": "Jaume Balagueró, Paco Plaza",
+            "imagemUrl":"https://pa1.aminoapps.com/7111/4e4f69d4b361aea39e5968a66511b02edee4e059r1-493-271_hq.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "Fenda No Tempo",
+            "ano": 1995,
+            "diretor": "Tom Holland",
+            "imagemUrl":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjWdgDxP0YnucgY0bFwGJXR7xT4zC76fzUpyh3kB2oL6zz_PZCIxAUk1SdfvlJ-i6puJ4PIzJ4rTOq-T82U0NChyphenhyphenuE1zgvvVMrN2Io9qzTgzRr6poMOp2L6PzVmx5wNhhT-8UwZuIRBVQV/s1600/langoliers_attack.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "A Hora do Pesadelo",
+            "ano": 1984,
+            "diretor": "Wes Craven",
+            "imagemUrl":"https://capricho.abril.com.br/wp-content/uploads/2018/03/a-hora-do-pesadelo.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "A Bruxa",
+            "ano": 2015,
+            "diretor": "Robert Eggers",
+            "imagemUrl":"https://66.media.tumblr.com/27d6081f7bd83cdd54990682d8675c46/tumblr_o6yyx1zB7q1rhy86to1_500.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Segredo da Cabana",
+            "ano": 2011,
+            "diretor": "Drew Goddard",
+            "imagemUrl":"https://pa1.aminoapps.com/6728/6bc9895a9cf7371bfe417781910f5289bfa87455_00.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "REC",
+            "ano": 2007,
+            "diretor": "Jaume Balagueró, Paco Plaza",
+            "imagemUrl":"https://64.media.tumblr.com/a0d99fcc628aba5e78820ba3eb3f1ac8/tumblr_pmzupd2not1sfp33y_500.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "Pânico",
+            "ano": 2007,
+            "diretor": "Jaume Balagueró, Paco Plaza",
+            "imagemUrl":"https://images.squarespace-cdn.com/content/v1/5ccb050e809d8e130ff3433f/1602949468883-9Q3NDS2KEO9EPEX4JC9D/panico.gif",
+            "trailerUrl":""
+        },
+        
+        {
+            "titulo": "Invocação do Mal",
+            "ano": 2013,
+            "diretor": "James Wan",
+            "imagemUrl":"https://pa1.aminoapps.com/8656/",
+            "trailerUrl": "f84355be8468064d3c8969a67c570aca410d2519r1-320-160_hq.gif"
+
+        },
+        {
+            "titulo": "Jogos Mortais",
+            "ano": 2004,
+            "diretor": "James Wan",
+            "imagemUrl":"https://i.makeagif.com/media/4-13-2016/oh2DOJ.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Exorcismo de Emily Rose",
+            "ano": 2005,
+            "diretor": "Scott Derrickson",
+            "imagemUrl":"https://25.media.tumblr.com/fcc250d4580ff5dae137e1d700cc64b1/tumblr_mk5dhrw7sn1qav174o1_500.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Nevoeiro",
+            "ano": 2007,
+            "diretor": "Frank Darabont",
+            "imagemUrl":"https://33.media.tumblr.com/d94e1fca4c54fa4a18887829ade8d45e/tumblr_mq3yneNcHA1s15enmo2_400.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "Os Outros",
+            "ano": 2001,
+            "diretor": "Alejandro Amenábar",
+            "imagemUrl":"https://31.media.tumblr.com/3c9f503a7888d7f5ae5f93c9042a6b92/tumblr_mrljfkl8eT1s7lm6wo1_400.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Ritual",
+            "ano": 2011,
+            "diretor": "Mikael Håfström",
+            "imagemUrl":"https://64.media.tumblr.com/c65418eb88a46d186074b3bba1237bb5/1cdc4e0ba67eaa65-a7/s540x810/6ff3ef071007825cbddc5c5bd70c605e54a6fcf1.gifv",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Chamado 2",
+            "ano": 2005,
+            "diretor": "Hideo Nakata",
+            "imagemUrl":"https://pa1.aminoapps.com/6871/e1201c35ab38f6732a9ac19e9ba3ca3b7c6d1198r1-500-284_hq.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "Invocação do Mal 2",
+            "ano": 2016,
+            "diretor": "James Wan",
+            "imagemUrl":"https://img.ibxk.com.br/2016/06/16/16173341803028.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Grito",
+            "ano": 2002,
+            "diretor": "Takashi Shimizu",
+            "imagemUrl":"https://pa1.aminoapps.com/6870/9dee9c1b7f82d680fa3475d8aa42f08879085bdcr1-500-281_hq.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "A Casa de Cera",
+            "ano": 2005,
+            "diretor": "Jaume Collet-Serra",
+            "imagemUrl":"https://pa1.aminoapps.com/6833/946f0a52f4653430d363d35b68bd97c221d6f75e_hq.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Enigma de Outro Mundo",
+            "ano": 1982,
+            "diretor": "John Carpenter",
+            "imagemUrl":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9JILfiwlJwTGJO4bDsPNRAy2guRzgKOpoYOAJm09KxkjBlT42dl7bVT6jVEJu0S6HtnWVWJMyJoAFhkvXATtMQJKujT1i_8K58ARpPIGY1k1v8mMLv7OiCBdzGjW30urhiA91_VNXkg/s1600/the-thing.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "Invocação do Mal 3: A Ordem do Demônio",
+            "ano": 2021,
+            "diretor": "Michael Chaves",
+            "imagemUrl":"https://phoneky.co.uk/thumbs/screensavers/down/new/movies/ani_IHlScXKJ.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "A Entidade",
+            "ano": 2012,
+            "diretor": "Scott Derrickson",
+            "imagemUrl":"https://pa1.aminoapps.com/6347/71b5ea1c9427489cce3ba6960ef0e1a7cc392b01_00.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "A Morte do Demônio",
+            "ano": 1981,
+            "diretor": "Sam Raimi",
+            "imagemUrl":"https://giffiles.alphacoders.com/250/25080.gif",
+            "trailerUrl":""
+        },
+        {
+            "titulo": "O Babadook",
+            "ano": 2014,
+            "diretor": "Jennifer Kent",
+            "imagemUrl":"https://c.tenor.com/XGDMb9hkbIoAAAAC/the-babadook-monster.gif",
+            "trailerUrl":""
+        }
+    ]
+}

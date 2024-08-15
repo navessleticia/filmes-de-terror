@@ -1,0 +1,61 @@
+{
+    "warren":[
+        {
+            "titulo": "Annabele",    
+            "ano": 2014,
+            "diretor": "John R. Leonetti",
+            "imagemUrl":"https://i.makeagif.com/media/4-02-2016/ucFXNn.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=kHl6aU30pIo"
+        },
+        {
+            "titulo": "Annabelle 2: A Criação do Mal",    
+            "ano": 2017,
+            "diretor": "David F. Sandberg",
+            "imagemUrl": "https://panitopan.wordpress.com/wp-content/uploads/2017/08/8991031.gif?w=740",
+            "trailerUrl":"https://www.youtube.com/watch?v=EWjq_8ijmvo"
+        },      
+        {
+            "titulo": "Annabelle 3: De volta pra casa",    
+            "ano": 2019,
+            "diretor": "David F. Sandberg",
+            "imagemUrl": "https://64.media.tumblr.com/e78b8e29fcc5eceb8b69bcae8b8432c8/tumblr_ps85ku3AhM1y28o89o3_540.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=BlAsN0G8_7o"
+        },
+        {
+            "titulo": "Invocação do mal",    
+            "ano": 2013 ,
+            "diretor": " James Wan",
+            "imagemUrl": "https://blogdojotace.com.br/wp-content/uploads/2013/12/conjuring.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=GQrrXceHn2E&t=53s"
+        },
+        {
+            "titulo": "Invocação do Mal 2",    
+            "ano": 2016 ,
+            "diretor": " James Wan",
+            "imagemUrl": "https://static1.1.sqspcdn.com/static/f/709071/26788552/1452719505603/ohshitgif.gif?token=N7OPQ9OAaLoNSI2MT%2BqGSNo%2BXyU%3D",
+            "trailerUrl":"https://www.youtube.com/watch?v=l3LQgORbhu4"
+        },
+        {
+            "titulo": "Invocação do Mal 3: A Ordem do Demônio",    
+            "ano": 2021 ,
+            "diretor": " James Wan",
+            "imagemUrl": "https://media.tenor.com/1JtGo_m7s-wAAAAM/possessed-david-glatzel.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=anDtrp34xig&t=8s"
+        },
+        {
+            "titulo": "A Freira",    
+            "ano": 2018 ,
+            "diretor": "  Corin Hardy",
+            "imagemUrl": "https://capricho.abril.com.br/wp-content/uploads/2018/09/a-freira.gif",
+            "trailerUrl":"https://www.youtube.com/watch?v=4V44ew-laC4"
+        },
+        {
+            "titulo": "A Freira 2",    
+            "ano": 2023 ,
+            "diretor": "  Corin Hardy",
+            "imagemUrl": "https://i0.wp.com/pa1.narvii.com/6873/de2571be8d72216e859b3aca4aa92daab4fe2752r1-245-160_00.gif?w=640",
+            "trailerUrl":"https://www.youtube.com/watch?v=0JZ8WGVSrwM"
+        }
+    ]
+    
+}
